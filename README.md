@@ -12,4 +12,6 @@ Encuentra fragmentos de reliquias y completa tu colección.
 
 Gráficos coloridos y animaciones fluidas para una experiencia envolvente.
 
+
+
 Descarga ahora en Google Play: 
