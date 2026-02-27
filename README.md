@@ -15,8 +15,6 @@ Monedas y mejoras: usa tus monedas para desbloquear poderes, vidas extra y mejor
 
 Dificultad progresiva: cuanto más corras, más rápido y desafiante será el juego.
 
-Competición y récords: supera tus propias marcas y compite con amigos para ver quién es el mejor cazador de reliquias.
-
 Gráficos y animaciones envolventes: colores vibrantes y movimientos fluidos para una experiencia visual atractiva.
 
 Sonidos y música: efectos y banda sonora que te sumergen en la aventura.
